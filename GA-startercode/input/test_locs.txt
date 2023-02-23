@@ -1,0 +1,6 @@
+JFK Airport,40.642523,-73.778216
+Empire State Building,40.748522,-73.985505
+Times Square,40.758871,-73.985056
+Yankee Stadium,40.829610,-73.926164
+Long Beach Boardwalk,40.583162,-73.660001
+Statue of Liberty,40.689282,-74.044533
